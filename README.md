@@ -1,4 +1,4 @@
-!-- LUIT GitHub Profile Template -->
+
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
@@ -6,9 +6,10 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
+My name is Rotimi Sule im a young man looking to become a Cloud/DevOps engineer, I am based out of the DFW area and cant wait to learn more about cloud technologies !
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rotimi%20Sule-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rotimisule/)](https://www.linkedin.com/in/rotimisule/)
 [![Medium Badge](https://img.shields.io/badge/Rotimi%20Sule-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rotimisule)](https://medium.com/@rotimisule)
